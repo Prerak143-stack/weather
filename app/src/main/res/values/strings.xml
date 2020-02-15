@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherONE</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_message">There was an error. Please try again.</string>
+    <string name="error_button_ok_text">OK</string>
+    <string name="network_unavailable_message">Sorry, the network is unavailable</string>
+    <string name="dev">Developed by PATEL</string>
+    <string name="alcatraz_island_ca">Alcatraz Island, CA</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="rain_snow">RAIN/SNOW?</string>
+</resources>
