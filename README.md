@@ -8,4 +8,4 @@ In this application, I have used very common and important element of Android de
   - Parsing JSON
   - Using a DialogFragment
   
-  ![alt text](http://url/to/img.png)
+  ![alt text](https://github.com/prerakpatelca/weather/blob/master/stormy_mockup.png)
